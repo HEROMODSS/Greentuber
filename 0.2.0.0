@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "title": "Update Available!",
   "points": [
     "Can’t wait to see you in the new version.",
